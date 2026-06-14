@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Taqi</h1>
-Passionate Frontend Developer on a journey of continuous learning, currently diving deep into React, modern CSS, and building dynamic web experiences.
+<p align="center">
+  Passionate Frontend Developer on a journey of continuous learning, currently diving deep into React, modern CSS, and building dynamic web experiences.
+</p>
 
 <h3 align="center"> Tech Stack:</h3>
 <p align="center">
